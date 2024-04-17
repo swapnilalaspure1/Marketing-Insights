@@ -6,8 +6,6 @@ CodeX is a German beverage company which is recently launched in India. They lau
 
 CodeX conducted a survey in those 10 cities and received results from 10k respondents.
 The survey was based on consumer behaviour questions like their purchasing habits, their feedback about energy drinks available in the market, pricing, packaging etc.
-The survey question file is attached at the end of this article.
+The survey question file is attached in the file section.
 
-Their Marketing Team wants their Data Analyst to convert these survey results to meaningful insights which the team can use to drive actions.
-
-The Marketing Team have asked to share certain insights. They have also asked to share meaningful recommendations from the data or external factors etc.
+Their Marketing Team wants their Data Analyst to convert these survey results to meaningful insights which the team can use to drive actions. The Marketing Team have asked to share certain insights.
